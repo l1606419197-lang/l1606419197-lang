@@ -1,5 +1,5 @@
 "Hello World， 我是新来的程序员！"## Hi there 👋
-
+"It's a great day!"
 <!--
 **l1606419197-lang/l1606419197-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
